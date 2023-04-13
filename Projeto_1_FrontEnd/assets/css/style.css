@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: Tahoma, sans-serif;
+}
+
+header {
+    background-color: #404eed;
+}
+
+nav {
+    position: relative;
+    display: flex;
+    height: 80px;
+    padding: 0px 60px;
+    justify-content: center;
+}
+
+#logoHeader {
+    margin-top: 15px;
+    width: 80%;
+}
+
+#menu {
+    width: 70%;
+}
+
+#ulHeader {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    font-size: 0.8em;
+    padding: 0px 100px;
+    margin-top: 28px;
+    color: #fff;
+}
+
+#positionButtonLoginMenu {
+    margin-top: 15px;
+    margin-left: 90px;
+}
+
+#buttonLogin{
+    height: 40px;
+    width: 70px;
+    border-radius: 30px;
+    font-size: 0.8em;
+}
+
+#bgPrincipal{
+    justify-content: center;
+    text-align: center;
+    background-color: #404eed;
+}
+
+#bgImg01{
+
+    width: 1700px;
+}
